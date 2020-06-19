@@ -14,4 +14,5 @@ Git Operation and Commands
 6. git commit -m "adding GitCommands file to the local repository".
 7. git add -A - It will add index into the multiple files in the local repository.
 8. git commit -a -m "adding index for multiple files to the local repository"
+9. git log - will give the ccommit details
 
