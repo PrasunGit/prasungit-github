@@ -15,4 +15,6 @@ Git Operation and Commands
 7. git add -A - It will add index into the multiple files in the local repository.
 8. git commit -a -m "adding index for multiple files to the local repository"
 9. git log - will give the ccommit details
+10. git branch <branch name> - It will create a branch in the local repo.
+11. git checkout <branch name> - It will switch to other branch.
 
