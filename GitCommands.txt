@@ -1,0 +1,15 @@
+There are two types of Repository
+==================================
+Central Repository
+Local Reporsitory
+
+
+Git Operation and Commands
+==========================
+1. git init - Create Local Repository. It will create .git file in the folder which would the local repository
+2. git remote add origin "https://github.com/PrasunGit/prasungit-github.git" - It will add the origin prasungit-github with the local repository. The https addresswould be available from clone option from master github.
+3. git pull origin master - it will download all the files from the central repository master branch to local repository
+4. git status - Check the list of files are added index for commit.
+5. git add <file name> - Add index to the file for commit to the local repository.
+6. git commit -m "adding GitCommands file to the local repository"
+
