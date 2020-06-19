@@ -18,4 +18,7 @@ Git Operation and Commands
 10. git branch <branch name> - It will create a branch in the local repo.
 11. git checkout <branch name> - It will switch to other branch.
 12. git merge - merge in the master branch
+13. ssh-keygen - Genmerate Public Key to establish a connection with central repository
+14. ssh -T git@github.com - Check the succesful connection with cnetral repo from local
+15. get push origin mybranch - push the changes in the mybranch central repository
 
