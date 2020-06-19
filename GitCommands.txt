@@ -11,5 +11,7 @@ Git Operation and Commands
 3. git pull origin master - it will download all the files from the central repository master branch to local repository
 4. git status - Check the list of files are added index for commit.
 5. git add <file name> - Add index to the file for commit to the local repository.
-6. git commit -m "adding GitCommands file to the local repository"
+6. git commit -m "adding GitCommands file to the local repository".
+7. git add -A - It will add index into the multiple files in the local repository.
+8. git commit -a -m "adding index for multiple files to the local repository"
 
