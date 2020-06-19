@@ -17,4 +17,5 @@ Git Operation and Commands
 9. git log - will give the ccommit details
 10. git branch <branch name> - It will create a branch in the local repo.
 11. git checkout <branch name> - It will switch to other branch.
+12. git merge - merge in the master branch
 
